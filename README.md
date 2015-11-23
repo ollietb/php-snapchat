@@ -2,6 +2,8 @@ Snapchat for PHP
 ================
 [![Build Status](https://travis-ci.org/JorgenPhi/php-snapchat.png)](https://travis-ci.org/JorgenPhi/php-snapchat)
 
+This library is out of date - please use the [SC-API library](https://github.com/mgp25/SC-API) 
+
 This library is built to communicate with the Snapchat API. It was nearly
 feature complete and lacks some newer functionality available in the latest
 versions of the official apps (stories, text messages, and "chat").
